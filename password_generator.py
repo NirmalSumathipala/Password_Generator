@@ -61,3 +61,4 @@ password_string = ''.join(map(str,password_list))
 #Printing the generated password to the console
 print("************************************************")
 print(f"Your generated password is: {password_string}")
+print("************************************************")
